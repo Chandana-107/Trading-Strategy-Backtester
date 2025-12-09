@@ -22,9 +22,6 @@ To get started with the Trading Strategy Backtester, follow these steps:
 
 1. Clone the repository:
 
-   ```
-   git clone https://github.com/yourusername/trading-backtester.git
-   ```
 
 2. Navigate to the project directory:
 
